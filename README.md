@@ -12,7 +12,7 @@ I've been learning to code for 2 years, after switching careers in the marketing
 * 🧠  I'm learning Advanced React Native
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/1Bernard" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/1BenAnsah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/1Bernard?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/1Bernard" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/1Bernard?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
