@@ -8,7 +8,7 @@ I've been learning to code for 2 years, after switching careers in the marketing
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [bernardansah5@gmail.com](mailto:bernardansah5@gmail.com)
-* 🚀  I'm currently working on [On a twitter clone](http://twitter-clone-1bernard.vercel.app/)
+* 🚀  I'm currently working on [a twitter clone](http://twitter-clone-1bernard.vercel.app/)
 * 🧠  I'm learning Advanced React Native
 * 🤝  I'm open to collaborating on interesting projects
 
