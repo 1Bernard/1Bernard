@@ -1,7 +1,7 @@
 Hi 👋 My name is Bernard Owusu Ansah
 ====================================
 
-Software Developer and Product Designer
+Software Developer, Digital Artist and Product Designer
 ---------------------------------------
 
 I picked up coding not long ago, after switching careers in the marketing industry. Since infancy, I've been fascinated about software and websites especially, and how we interact with them. This excitement started off with playing games on the internet, and has now grown to a point where I want to make a career out of it. I started with HTML and CSS, and now I'm currently learning and building apps using React and React Native.
