@@ -4,7 +4,7 @@ Hi 👋 My name is Bernard Owusu Ansah
 Software Developer and Product Designer
 ---------------------------------------
 
-I've been learning to code for 2 years, after switching careers in the marketing industry. Since infancy, I've been fascinated about software and websites especially, and how we interact with them. This excitement started off with playing games on the internet, and has grown to a point where I want to make a career out of it. I started with HTML and CSS, and now I have interest in learning and building apps using React and React Native.
+I picked up coding not long ago, after switching careers in the marketing industry. Since infancy, I've been fascinated about software and websites especially, and how we interact with them. This excitement started off with playing games on the internet, and has now grown to a point where I want to make a career out of it. I started with HTML and CSS, and now I'm currently learning and building apps using React and React Native.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [bernardansah5@gmail.com](mailto:bernardansah5@gmail.com)
