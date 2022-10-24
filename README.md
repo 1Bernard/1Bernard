@@ -1,10 +1,9 @@
-Hi 👋 My name is Bernard Owusu Ansah
+Hi 👋 my name is Bernard Owusu Ansah
 ====================================
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Software+Developer;Blockchain+Developer)](https://git.io/typing-svg)
+------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+stack+Software+engineer; Blockchain+developer)](https://git.io/typing-svg)
----------------------------------------
-
-I picked up coding after switching careers in the marketing industry. Since infancy, I've been fascinated about software and websites especially, and how we interact with them. This excitement started off with playing games on the internet, and has now grown to a point where I want to make a career out of it. I started with HTML and CSS, and now I'm currently learning and building apps using React and React Native. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, feel free to get in touch.
+I picked up coding after switching careers in the marketing industry. Since infancy, I've been fascinated about software and the internet especially, and the various ways we interact with them. This excitement started off with playing games on the internet, and has now grown to a point where I want to make a career out of it. I started with HTML and CSS, and now I'm currently learning and building apps using React and React Native. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, feel free to get in touch.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [bernardansah5@gmail.com](mailto:bernardansah5@gmail.com)
