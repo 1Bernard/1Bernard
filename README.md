@@ -7,7 +7,7 @@ I picked up coding after switching careers in the marketing industry. Since infa
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [bernardansah5@gmail.com](mailto:bernardansah5@gmail.com)
-* 🚀  I'm currently working on [a nft blockchain website]()
+* 🚀  I'm currently working on [a nft blockchain app]()
 * 🧠  I'm learning Advanced React Native
 * 🤝  I'm open to collaborating on interesting projects
 
