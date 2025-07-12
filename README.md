@@ -17,9 +17,8 @@ Especially interested in open-source backend projects that present architectural
 
 📍 **Location:** Accra, Ghana  
 📧 **Email:** [bernardansah5@gmail.com](mailto:bernardansah5@gmail.com)  
-💼 **Role:** Senior Software Engineer (Ruby | Elixir | Secure Financial Systems)  
+💼 **Role:** Senior Software Engineer (Ruby | Elixir | Secure Financial Systems)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/1BenAnsah?label=Follow%20me&style=for-the-badge&logo=twitter&color=0891b2&labelColor=1c1917)](https://twitter.com/1BenAnsah)
 [![GitHub Followers](https://img.shields.io/github/followers/1Bernard?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/1Bernard)
 
 ---
@@ -56,8 +55,7 @@ Especially interested in open-source backend projects that present architectural
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/1Bernard" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/bernard-owusu-ansah/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/1BenAnsah" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/bernard-owusu-ansah-22a411219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
 </p>
 
 ---
